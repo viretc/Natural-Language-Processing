@@ -12,3 +12,8 @@ Note: the aim was to use NLTK pipeline for the text pre-processing and we were n
 
 Note: the aim of the project was to use NLTK pipeline for the text pre-processing. Thus, we were not allowed to use more “advance” technics such as LSTM or other Deep learning architectures.
 
+
+
+![alt text](https://github.com/viretc/Natural-Language-Processing/blob/master/Seq2seq/Images/meto1.PNG)
+
+
