@@ -19,9 +19,9 @@ Note: the aim of the project was to use NLTK pipeline for the text pre-processin
 
 Created a prototype of a machine translation from French to English by adding an emoji at the end of the translation.
 
--Seq2seq model: Encoder - decoder LSTM with 3 layers (trained locally) with a clean dictionary of 40000 words and sentences- Bleu score of 50%
--Emojifier model: Encoder – decoder LSTM with GLOVE for synonym -Accuracy of 78%
--Application: summary of the data and models that could be used as the back end of future prototype
+- Seq2seq model: Encoder - decoder LSTM with 3 layers (trained locally) with a clean dictionary of 40000 words and sentences- Bleu score of 50%
+- Emojifier model: Encoder – decoder LSTM with GLOVE for synonym -Accuracy of 78%
+- Application: summary of the data and models used for presentation (could be you as a prototype for new applications)
 
 **Our methodology**:
 
